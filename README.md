@@ -8,7 +8,7 @@ I'm **Kittawere**, a red lynx with a passion for gene editing, programming, and 
 - **Programming**: I know my way around anything electronic, specially Python.
 - **AI Research**: I just started learning about AI development. I think one day, AI will crack the code of aging and make me immortal. I'm a bit scared, but also excited.
 
-## 🧠 My Interests
+## 🤩 My Interests
 
 - **Gene Editing**: Synthetic biology, and all that good stuff.
 - **AI Development**: I'm learning, I'm experimenting, and I'm not afraid to let things blow up.
