@@ -35,7 +35,7 @@ WIP - But I'm working on some cringy projects to dip my toes in LLM finetuning. 
 
 - Discord, reddit, X, Huggingface: `@kittawere`
 - GitHub: [github.com/kittawere](https://github.com/kittawere)
-- My discord [server](https://discord.gg/bQtc65J3) - If you want to DM me on discord you will have to join my empty server :stonks:
+- My discord [server](https://discord.gg/EjVXYZxnqH) - If you want to DM me on discord you will have to join my empty server :stonks:
 
 ---
 
